@@ -26,7 +26,7 @@ The following step-by-step instructions help you use the Data Migration Assistan
 - Designate a tools computer on your network from which DMA will be initiated. Ensure that this computer has connectivity to your SQL Server targets.
 - Download and install:
     - [Data Migration Assistant](https://www.microsoft.com/download/details.aspx?id=53595) v3.6 or above.
-    - [PowerShell](http://aka.ms/wmf5download) v5.0 or above.
+    - [PowerShell](https://aka.ms/wmf5download) v5.0 or above.
     - [.NET Framework](https://www.microsoft.com/download/details.aspx?id=30653) v4.5 or above.
     - [SSMS](https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms) 17.0 or above.
     - [PowerBI desktop](https://docs.microsoft.com/power-bi/desktop-get-the-desktop).
